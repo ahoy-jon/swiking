@@ -1,0 +1,3 @@
+[submodule "sgit"]
+	path = sgit
+	url = https://github.com/un-jon/sgit.git
